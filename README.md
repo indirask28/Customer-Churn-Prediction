@@ -1,4 +1,4 @@
-#Customer Churn Prediction 2020
+# Customer Churn Prediction 2020
 This competition is about predicting whether a customer will change telecommunications provider, something known as "churning".
 
 The training dataset contains 4250 samples. Each sample contains 19 features and 1 boolean variable "churn" which indicates the class of the sample. The 19 input features and 1 target variable are:
